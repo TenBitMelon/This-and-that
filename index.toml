@@ -1,1 +1,6 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/create.toml"
+hash = "93b7077d804cf401f86621ac350efe1f4cd78e2340bd6cee5c6eda153ab9e5a1"
+metafile = true
